@@ -93,7 +93,7 @@ baseline to show and discuss.
 ## 5. Artefacts
 
 Repository: <https://github.com/michalpokracki/master-thesis-sms-spam-classification>
-Commit for this report: [`bbb4df0`](https://github.com/michalpokracki/master-thesis-sms-spam-classification/commit/bbb4df0bbef0d986fe7112651bdccd1e6ba7de05)
+Commit history (`main`): <https://github.com/michalpokracki/master-thesis-sms-spam-classification/commits/main>
 
 Code:
 
