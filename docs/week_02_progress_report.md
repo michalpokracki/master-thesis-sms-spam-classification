@@ -106,5 +106,3 @@ Screenshots (figures):
 - Class distribution: [`results/figures/class_distribution.png`](https://github.com/michalpokracki/master-thesis-sms-spam-classification/blob/main/results/figures/class_distribution.png)
 - Message-length distributions: [`results/figures/message_length_distributions.png`](https://github.com/michalpokracki/master-thesis-sms-spam-classification/blob/main/results/figures/message_length_distributions.png)
 - Confusion matrix: [`results/figures/confusion_matrix.png`](https://github.com/michalpokracki/master-thesis-sms-spam-classification/blob/main/results/figures/confusion_matrix.png)
-
-Demo video: not applicable this week (demo rescheduled to week 3).
