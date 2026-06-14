@@ -11,3 +11,7 @@ env/
 
 # Jupyter
 *.ipynb_checkpoints
+
+# Cached dataset (downloaded from UCI at runtime)
+data/
+.pytest_cache/

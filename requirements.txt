@@ -7,6 +7,7 @@ jupyter>=1.0.0
 notebook>=7.0.0
 nltk>=3.8.0
 certifi>=2023.7.22
+pytest>=7.4.0
 
 # Will be added in later weeks:
 # torch>=2.0.0
